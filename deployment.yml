@@ -15,9 +15,3 @@ jobs:
    steps:
      - name: run simple_model
        command: dbt run --models simple_model
-     - name: run simple_model2
-       command: dbt run --models simple_model2
-     - name: run simple_model3
-       command: dbt run --models simple_model3
-     - name: run all simple models
-       command: dbt run --models simple_model simple_model2 simple_model3
