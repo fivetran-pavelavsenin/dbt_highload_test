@@ -1,0 +1,7 @@
+version: 2
+
+sources:
+  - name: google_sheets
+    schema: google_sheets
+    tables:
+      - name: sheets
