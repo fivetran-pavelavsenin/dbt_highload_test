@@ -1,5 +1,5 @@
 version: 2
 
 models:
-  - name: simple_model
-    description: simple_model
+  - name: model1
+    description: model1
